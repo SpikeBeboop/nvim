@@ -3,7 +3,7 @@ local M = {}
 --加载默认设置
 M.config = require("config")
 
-function M.setup(userconfig)
+function M.setup(user_config)
     --加载工具库
     require("utils.global")
     -- 加载基础设置

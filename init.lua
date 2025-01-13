@@ -1,3 +1,1 @@
-require("main").setup({
-    
-})
+require("main").setup({})
