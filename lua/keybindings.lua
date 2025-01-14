@@ -28,3 +28,7 @@ keymap("n", keys.n_force_quit_all, "<CMD>qa!<CR>")
 -- insert 模式下 跳到行首行尾
 keymap("i", "<C-h>", "<Esc>I")
 keymap("i", "<C-j>", "<Esc>A")
+
+
+keymap("n", "<CR>", "o<Esc>")
+keymap("n", "Y", "Y")
