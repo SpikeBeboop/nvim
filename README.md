@@ -1,1 +1,2 @@
-- init
+- init.lua	配置入口及个人配置
+  - main	配置入口
